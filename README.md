@@ -1,5 +1,7 @@
 # DeepLearning.AI-TensorFlow-Developer-Specialization
 
+![TensorFlow Logo](/TensorFlow_logo.svg.png)
+
 This Repository contains Notebooks, slides and my assignments for [DeepLearning.AI-TensorFlow-Developer Specialization](https://www.coursera.org/professional-certificates/tensorflow-in-practice) Course from Coursera.
 
 This repo is for my personal reference.
